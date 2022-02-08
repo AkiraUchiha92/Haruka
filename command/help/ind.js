@@ -52,7 +52,7 @@ exports.welcome = () =>{
 	return`Jangan Lupa Intro Ya~
 ⌯ָ   ֙Nama :
 ⌯ָ   ֙Umur :
-⌯ָ   ֙Kelamin :
+⌯ָ   ֙Gender :
 ⌯ָ   ֙Askot :
 ╰─ ᝬ _Patuhi Rules Group Ya_  >_<`
       }
